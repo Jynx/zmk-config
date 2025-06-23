@@ -15,7 +15,7 @@
 #define THUMBS LH2 LH1 LH0 RH0 RH1 RH2 
 
 #include "settings.dtsi"
-#include "behaviours_homerow_mods.dtsi"
+#include "behaviors_homerow_mods.dtsi"
 
 / {
         keymap {
